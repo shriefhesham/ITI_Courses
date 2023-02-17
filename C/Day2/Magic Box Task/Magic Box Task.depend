@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666023803 source:h:\iti project\c\day2\magic box task\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
