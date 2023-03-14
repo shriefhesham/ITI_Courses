@@ -1,0 +1,15 @@
+F:\DP_SD\Day_1\Tasks\Builder_Task\Builder\BuilderDP\bin\Debug\net7.0\BuilderDP.exe
+F:\DP_SD\Day_1\Tasks\Builder_Task\Builder\BuilderDP\bin\Debug\net7.0\BuilderDP.deps.json
+F:\DP_SD\Day_1\Tasks\Builder_Task\Builder\BuilderDP\bin\Debug\net7.0\BuilderDP.runtimeconfig.json
+F:\DP_SD\Day_1\Tasks\Builder_Task\Builder\BuilderDP\bin\Debug\net7.0\BuilderDP.dll
+F:\DP_SD\Day_1\Tasks\Builder_Task\Builder\BuilderDP\bin\Debug\net7.0\BuilderDP.pdb
+F:\DP_SD\Day_1\Tasks\Builder_Task\Builder\BuilderDP\obj\Debug\net7.0\BuilderDP.csproj.AssemblyReference.cache
+F:\DP_SD\Day_1\Tasks\Builder_Task\Builder\BuilderDP\obj\Debug\net7.0\BuilderDP.GeneratedMSBuildEditorConfig.editorconfig
+F:\DP_SD\Day_1\Tasks\Builder_Task\Builder\BuilderDP\obj\Debug\net7.0\BuilderDP.AssemblyInfoInputs.cache
+F:\DP_SD\Day_1\Tasks\Builder_Task\Builder\BuilderDP\obj\Debug\net7.0\BuilderDP.AssemblyInfo.cs
+F:\DP_SD\Day_1\Tasks\Builder_Task\Builder\BuilderDP\obj\Debug\net7.0\BuilderDP.csproj.CoreCompileInputs.cache
+F:\DP_SD\Day_1\Tasks\Builder_Task\Builder\BuilderDP\obj\Debug\net7.0\BuilderDP.dll
+F:\DP_SD\Day_1\Tasks\Builder_Task\Builder\BuilderDP\obj\Debug\net7.0\refint\BuilderDP.dll
+F:\DP_SD\Day_1\Tasks\Builder_Task\Builder\BuilderDP\obj\Debug\net7.0\BuilderDP.pdb
+F:\DP_SD\Day_1\Tasks\Builder_Task\Builder\BuilderDP\obj\Debug\net7.0\BuilderDP.genruntimeconfig.cache
+F:\DP_SD\Day_1\Tasks\Builder_Task\Builder\BuilderDP\obj\Debug\net7.0\ref\BuilderDP.dll
