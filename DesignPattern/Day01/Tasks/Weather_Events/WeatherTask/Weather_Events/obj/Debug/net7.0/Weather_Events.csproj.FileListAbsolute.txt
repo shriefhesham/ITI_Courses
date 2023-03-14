@@ -1,0 +1,15 @@
+F:\DP_SD\Day_1\Tasks\Weather_Events\WeatherTask\Weather_Events\bin\Debug\net7.0\Weather_Events.exe
+F:\DP_SD\Day_1\Tasks\Weather_Events\WeatherTask\Weather_Events\bin\Debug\net7.0\Weather_Events.deps.json
+F:\DP_SD\Day_1\Tasks\Weather_Events\WeatherTask\Weather_Events\bin\Debug\net7.0\Weather_Events.runtimeconfig.json
+F:\DP_SD\Day_1\Tasks\Weather_Events\WeatherTask\Weather_Events\bin\Debug\net7.0\Weather_Events.dll
+F:\DP_SD\Day_1\Tasks\Weather_Events\WeatherTask\Weather_Events\bin\Debug\net7.0\Weather_Events.pdb
+F:\DP_SD\Day_1\Tasks\Weather_Events\WeatherTask\Weather_Events\obj\Debug\net7.0\Weather_Events.csproj.AssemblyReference.cache
+F:\DP_SD\Day_1\Tasks\Weather_Events\WeatherTask\Weather_Events\obj\Debug\net7.0\Weather_Events.GeneratedMSBuildEditorConfig.editorconfig
+F:\DP_SD\Day_1\Tasks\Weather_Events\WeatherTask\Weather_Events\obj\Debug\net7.0\Weather_Events.AssemblyInfoInputs.cache
+F:\DP_SD\Day_1\Tasks\Weather_Events\WeatherTask\Weather_Events\obj\Debug\net7.0\Weather_Events.AssemblyInfo.cs
+F:\DP_SD\Day_1\Tasks\Weather_Events\WeatherTask\Weather_Events\obj\Debug\net7.0\Weather_Events.csproj.CoreCompileInputs.cache
+F:\DP_SD\Day_1\Tasks\Weather_Events\WeatherTask\Weather_Events\obj\Debug\net7.0\Weather_Events.dll
+F:\DP_SD\Day_1\Tasks\Weather_Events\WeatherTask\Weather_Events\obj\Debug\net7.0\refint\Weather_Events.dll
+F:\DP_SD\Day_1\Tasks\Weather_Events\WeatherTask\Weather_Events\obj\Debug\net7.0\Weather_Events.pdb
+F:\DP_SD\Day_1\Tasks\Weather_Events\WeatherTask\Weather_Events\obj\Debug\net7.0\Weather_Events.genruntimeconfig.cache
+F:\DP_SD\Day_1\Tasks\Weather_Events\WeatherTask\Weather_Events\obj\Debug\net7.0\ref\Weather_Events.dll
