@@ -1,0 +1,15 @@
+F:\ITI Intake 43\C# Hany\Day15\Tasks\Observer DP\Observer DP\bin\Debug\net6.0\Observer DP.exe
+F:\ITI Intake 43\C# Hany\Day15\Tasks\Observer DP\Observer DP\bin\Debug\net6.0\Observer DP.deps.json
+F:\ITI Intake 43\C# Hany\Day15\Tasks\Observer DP\Observer DP\bin\Debug\net6.0\Observer DP.runtimeconfig.json
+F:\ITI Intake 43\C# Hany\Day15\Tasks\Observer DP\Observer DP\bin\Debug\net6.0\Observer DP.dll
+F:\ITI Intake 43\C# Hany\Day15\Tasks\Observer DP\Observer DP\bin\Debug\net6.0\Observer DP.pdb
+F:\ITI Intake 43\C# Hany\Day15\Tasks\Observer DP\Observer DP\obj\Debug\net6.0\Observer DP.csproj.AssemblyReference.cache
+F:\ITI Intake 43\C# Hany\Day15\Tasks\Observer DP\Observer DP\obj\Debug\net6.0\Observer DP.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI Intake 43\C# Hany\Day15\Tasks\Observer DP\Observer DP\obj\Debug\net6.0\Observer DP.AssemblyInfoInputs.cache
+F:\ITI Intake 43\C# Hany\Day15\Tasks\Observer DP\Observer DP\obj\Debug\net6.0\Observer DP.AssemblyInfo.cs
+F:\ITI Intake 43\C# Hany\Day15\Tasks\Observer DP\Observer DP\obj\Debug\net6.0\Observer DP.csproj.CoreCompileInputs.cache
+F:\ITI Intake 43\C# Hany\Day15\Tasks\Observer DP\Observer DP\obj\Debug\net6.0\Observer DP.dll
+F:\ITI Intake 43\C# Hany\Day15\Tasks\Observer DP\Observer DP\obj\Debug\net6.0\refint\Observer DP.dll
+F:\ITI Intake 43\C# Hany\Day15\Tasks\Observer DP\Observer DP\obj\Debug\net6.0\Observer DP.pdb
+F:\ITI Intake 43\C# Hany\Day15\Tasks\Observer DP\Observer DP\obj\Debug\net6.0\Observer DP.genruntimeconfig.cache
+F:\ITI Intake 43\C# Hany\Day15\Tasks\Observer DP\Observer DP\obj\Debug\net6.0\ref\Observer DP.dll
